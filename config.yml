@@ -7,7 +7,7 @@ auto_redeem:
   # enable auto_redeem or not (true / false)
   enabled: false
   # The token to redeem the codes with
-  token: "PUT_YOUR_TOKEN_HERE"
+  token: "NzQ4ODE0MDc1ODEwODA3ODQ5.GGkbq6.aZ_X4QXLdNgTx4MNav_vvNmpVvtnZHzBLxUmHM"
 
 # Proxy-related settings
 proxies:
@@ -28,12 +28,12 @@ proxies:
 threads: 50
 
 # Receive webhook messages on start and when a valid code is found
-webhook:
+webhook:FOUND
   # enable webhook messages or not (true / false)
   enabled: false
 
   # The webhook url
-  url: https://discord.com/api/webhooks/.../...
+  url: https://discord.com/api/webhooks/1166726321322344459/QbCCshO0Zj-b63XSC-enWQxx-FnQttI3wKkUftjWkjHlK8AGSn67A1VpW6jWf6R-
 
   # Webhook notifications settings
   notifications:
